@@ -29,9 +29,19 @@
 
 html {
     font-size: 62.5%;
+    
 }
 
 body {
     font-family: var(--font-open-sans);
     font-size: 1.6rem;
+    font-weight: 400;
+    color: var(--color-very-dark-blue);
+    background-color: var(--color-light-grayish-blue);
+    padding: 6.4rem 3.2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;    
+    min-height: 100vh;
+    line-height: 1.5;
 }
