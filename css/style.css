@@ -38,7 +38,7 @@ body {
     font-weight: 400;
     color: var(--color-very-dark-blue);
     background-color: var(--color-light-grayish-blue);
-    padding: 6.4rem 3.2rem;
+    padding:5.2rem 7.2rem ;
     display: flex;
     flex-direction: column;
     align-items: center;    
