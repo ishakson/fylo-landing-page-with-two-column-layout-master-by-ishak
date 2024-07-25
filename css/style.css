@@ -294,6 +294,9 @@ footer{
 
     
 }
+footer *:hover{
+    color: var(--color-bright-blue);
+}
 .logo-footer{
     grid-column: 1/2;
     grid-row: 1/2;
